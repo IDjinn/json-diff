@@ -1,0 +1,9 @@
+{
+  "hello": "world",
+  "deep": [
+    {
+      "yey": "yooo",
+      "true": true
+    }
+  ]
+}

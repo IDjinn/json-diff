@@ -1,2 +1,2 @@
-/target
-/runner/target
+**/target
+**/*lock
